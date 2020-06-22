@@ -1,0 +1,27 @@
+\documentclass[11pt,UTF8]{ctexart}
+\title{参数选取}
+\author{马坤}
+\date{2020.4.29}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{subcaption}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\begin{document}
+    \maketitle
+    \par{由于我们代码中选取的区间是[0,1]，199等分，所以并没有采用无量纲化。
+    部分参数的选取为：
+    $$
+    H = L = 1m,\rho = 1 kg/m^3,u = 0.01m/s,
+    \triangle x=1/199  m,\triangle t = 0.1/199s
+    $$
+    我们的示性函数为$\phi$，则流体粘性变化函数为：
+    $$
+    \eta = \eta_s\phi+(1-\phi)\eta_l
+    $$
+    若我们取$\eta_l=0.02m^2/s$，$rate=\frac{\eta_s}{\eta_l}=50$那么
+    $$\eta=(49\phi+1)\eta_l\in[0.02,1]=\nu$$
+    由此计算得到
+    $$Re = \frac{Hu}{\nu}\in [0.01,0.5]$$}
+\end{document}

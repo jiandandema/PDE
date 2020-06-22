@@ -1,0 +1,88 @@
+nohup: 忽略输入
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 0.992435  11.5615  11.474
+current error: [0.992435]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 0.368232  11.5615  4.25732
+current error: [0.368232]
+
+/********* start new time layer 2001 *************/
+current time layer: [1.00503, 1.00553]
+current L^2 error = 0.444225  11.5615  5.13591
+current error: [0.444225]
+
+/********* start new time layer 3001 *************/
+current time layer: [1.50754, 1.50804]
+current L^2 error = 0.442121  11.5615  5.11158
+current error: [0.442121]
+
+/********* start new time layer 4001 *************/
+current time layer: [2.01005, 2.01055]
+current L^2 error = 0.365706  11.5615  4.22811
+current error: [0.365706]
+
+/********* start new time layer 5001 *************/
+current time layer: [2.51256, 2.51307]
+current L^2 error = 0.315536  11.5615  3.64807
+current error: [0.315536]
+
+/********* start new time layer 6001 *************/
+current time layer: [3.01508, 3.01558]
+current L^2 error = 0.29341  11.5615  3.39226
+current error: [0.29341]
+
+/********* start new time layer 7001 *************/
+current time layer: [3.51759, 3.51809]
+current L^2 error = 0.28358  11.5615  3.27862
+current error: [0.28358]
+
+/********* start new time layer 8001 *************/
+current time layer: [4.0201, 4.0206]
+current L^2 error = 0.278569  11.5615  3.22067
+current error: [0.278569]
+
+/********* start new time layer 9001 *************/
+current time layer: [4.52261, 4.52312]
+current L^2 error = 0.275777  11.5615  3.18839
+current error: [0.275777]
+
+/********* start new time layer 10001 *************/
+current time layer: [5.02513, 5.02563]
+current L^2 error = 0.274153  11.5615  3.16962
+current error: [0.274153]
+
+/********* start new time layer 11001 *************/
+current time layer: [5.52764, 5.52814]
+current L^2 error = 0.273183  11.5615  3.15841
+current error: [0.273183]
+
+/********* start new time layer 12001 *************/
+current time layer: [6.03015, 6.03065]
+current L^2 error = 0.27259  11.5615  3.15155
+current error: [0.27259]
+
+/********* start new time layer 13001 *************/
+current time layer: [6.53266, 6.53317]
+current L^2 error = 0.272221  11.5615  3.14728
+current error: [0.272221]
+
+/********* start new time layer 14001 *************/
+current time layer: [7.03518, 7.03568]
+current L^2 error = 0.271986  11.5615  3.14456
+current error: [0.271986]
+
+/********* start new time layer 15001 *************/
+current time layer: [7.53769, 7.53819]
+current L^2 error = 0.271834  11.5615  3.14281
+current error: [0.271834]
+
+/********* start new time layer 16001 *************/
+current time layer: [8.0402, 8.0407]
+current L^2 error = 0.271734  11.5615  3.14166
+current error: [0.271734]
+[mpiexec@w301] Sending Ctrl-C to processes as requested
+[mpiexec@w301] Press Ctrl-C again to force abort

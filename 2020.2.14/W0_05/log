@@ -1,0 +1,8 @@
+nohup: 忽略输入
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 0.998995  14.5694  14.5547
+current error: [0.998995]
+[mpiexec@w301] Sending Ctrl-C to processes as requested
+[mpiexec@w301] Press Ctrl-C again to force abort

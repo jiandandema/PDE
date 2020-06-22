@@ -1,0 +1,57 @@
+\documentclass[11pt,UTF8]{ctexart}
+\title{变粘性模型}
+\author{马坤}
+\date{2020.6.12}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{subcaption}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\begin{document}
+    \maketitle
+    \section{将二阶力格式应用到非标准LBM中}
+    \par{之前变粘性模型，利用的是$\nu = c_s^2\tau$将变粘性直接引入LBM程序中。
+    但是这样的做法在粘性变化很激烈、变化范围不太理想时，会使得数值算法不稳定。
+    于是我们采用了将变粘性转化为力的方式，引入LBM。由于采用的并不是标准的LBM格式，
+    所以需要重新做一次$C-E$分析。}
+    \par{基础的离散速度分布方程
+    \begin{equation}
+	\frac{\partial f_{\alpha}}{\partial t}(\mathbf{x}, t)+\mathbf{e}_{\alpha} \cdot \nabla f_{\alpha}(\mathbf{x}, t)=\Theta_{\alpha} + F_{\alpha}, \quad \alpha=0,1, \cdots, 8, \quad \mathbf{x} \in \Omega, \quad t \in(0, T)
+	\label{eqn1}
+	\end{equation}
+    由于方程已经是标准的LBM的一阶泰勒展开式了，所以我们对其做$C-E$分析之前不需要
+    再做额外的泰勒展开了。于是我们做如下的参数假设，然后考虑参数应该如何选取。
+    $$\rho \mathbf{u}\equiv \sum_{\alpha} \mathbf{e}_{\alpha} f_{\alpha}+m \mathbf{F} \Delta t$$
+    $$F_{\alpha}=\omega_{\alpha}\left[A+\frac{\mathbf{B} \cdot \mathbf{e}_{\alpha}}{c_{s}^{2}}+\frac{\mathbf{C}:\left(\mathbf{e}_{\alpha} \mathbf{e}_{\alpha}-c_{s}^{2} \mathbf{\alpha}\right)}{2 c_{s}^{4}}\right]$$
+    $$\sum_{\alpha} F_{\alpha}=A, \quad \sum_{\alpha} \mathbf{e}_{\alpha} F_{\alpha}=\mathbf{B} = nF_{\alpha}, \quad \sum_{\alpha} \mathbf{e}_{\alpha} \mathbf{e}_{\alpha} F_{\alpha}=c_{s}^{2} A \mathbf{I}+\frac{1}{2}\left[\mathbf{C}+\mathbf{C}^{T}\right]$$
+    Chapman展开有
+    $$f_{\alpha} = f_{\alpha}^{eq} + \epsilon f_{\alpha}^{(1)} + \epsilon^2 f_{\alpha}^{(2)},F_{\alpha}=\epsilon F_{\alpha}^{(1)}$$
+    $$\partial_t = \epsilon \partial_t^{(1)}+\epsilon^2 \partial_t^{(2)},\nabla = \epsilon \nabla^{(1)}$$
+    然后将其带入离散速度方程，匹配尺度就得到下面两个展开方程
+    $$\partial_t^{(1)} f^{eq}_{\alpha}+\mathbf{e}_i \cdot \nabla_{(1)}f_{\alpha}^{eq} = -\frac{1}{\tau}f^{(1)}_{\alpha}+F^{(1)}_{\alpha}$$
+    $$\partial_t^{(2)} f^{eq}_{\alpha}+\partial_t^{(1)} f^{(1)}_{\alpha}+\mathbf{e}_i \cdot \nabla_{(1)}f_{\alpha}^{(1)}=-\frac{1}{\tau}f_{\alpha}^{(2)}$$
+    再对两个方程求矩，利用到的等式有
+    $$\sum_{\alpha}f_{\alpha}^{(k)}=0,k=1,2$$$$\sum_{\alpha}f_{\alpha}^{eq}=\rho$$
+    $$\sum_{\alpha}\mathbf{e}_{\alpha}f_{\alpha}^{eq}=\rho\mathbf{u},\sum_{\alpha}\mathbf{e}_{\alpha} f_{\alpha}^{(1)} = m\triangle t \mathbf{F},,\sum_{\alpha}\mathbf{e}_{\alpha} f_{\alpha}^{(2)} = \mathbf{0}$$
+    我计算发现，当参数取为$\mathbf{A}=0,n=1,m=0$以及参数$\mathbf{C}=\mathbf{u}\mathbf{F}+\mathbf{F u}$就可以较为精确的还原$N-S$方程。至此
+    二阶精度的力格式在表达式\ref {eqn1}下的格式就完全推导出来了，接下来就是如何将变粘性转化为力引入LBM。}
+    \section{利用力的模型处理变粘性问题}
+    \par{首先方法是借鉴了论文A lattice Boltzmann approach for the non-Newtonian effect in the blood flow，论文中我将表达式24改写为
+    $$\sigma_{\alpha \beta}=-P \delta_{\alpha \beta}+2 \nu_{0} S_{\alpha \beta}+2 \mu_{0}\left(\nu-1\right) S_{\alpha \beta}$$
+    其中$\nu_0,\nu$是假定的常值粘性与变粘性函数，$\alpha,\beta$下标为方向，$i$为速度集的第$i$个量。于是就有等效的粘性力$F=\partial_{\alpha}2 \mu_{0}\left(\nu-1\right) S_{\alpha \beta}$
+    ，显然我们就需要计算$S_{\alpha \beta},\partial_{\alpha}S_{\alpha \beta}$，这两个表达式论文中都给出了分别是表达式17与表达式28。
+    $$\partial_{\alpha} S_{\alpha \beta}=\frac{1}{6 \Delta x} \sum_{i=0}^{8} c_{i \alpha} S_{\alpha \beta}\left(x+c_{i} \Delta x\right)$$
+    $$S_{\alpha \beta}=-\frac{1}{2 \tau c_{s}^{2}\rho} \sum_{i=0}^{8} c_{i \alpha} c_{i \beta} f_{i}^{(1)}$$
+    表达28很好验证，就是采用了中心差分的思想。而表达式17就需要利用在$C-E$分析的到的表达式，我们需要计算得到
+	$$\Pi_{\alpha \beta}^{(1)}=\sum_{i=0}^{8} c_{i \alpha} c_{i \beta} f_{i}^{(1)}$$
+	然而其计算方法在LBM英语书上和论文Discrete lattice effects on the forcing term in the lattice Boltzmann method都有方法，其计算结果为
+	$$\begin{aligned}
+        \Pi_{\alpha \beta}^{(1)}=&-\tau\left[\left(\mathbf{u}_{\alpha} \mathbf{F}_{1 \beta}+\mathbf{u}_{\beta} \mathbf{F}_{1 \alpha}\right)+c_{s}^{2} \rho\left(\nabla_{1 \alpha} \mathbf{u}_{\beta}+\nabla_{1 \beta} \mathbf{u}_{\alpha}\right)\right.\\
+        &\left.\left.-\frac{1}{2}\left(\mathbf{C}_{1 \alpha \beta}+\mathbf{C}_{1 \beta \alpha}\right)\right]\right)
+        \end{aligned}$$
+    将$\mathbf{C}$的选取结果带入以后我们就可以发现
+    $$\Pi_{\alpha \beta}^{(1)}=-\tau c_s^2 \rho(\nabla_{1 \alpha} \mathbf{u}_{\beta}+\nabla_{1 \beta} \mathbf{u}_{\alpha})$$
+    进一步就可以得到
+    $$S_{\alpha \beta}=-\frac{1}{2 \tau c_{s}^{2}\rho} \sum_{i=0}^{8} c_{i \alpha} c_{i \beta} f_{i}^{(1)}$$}
+\end{document}

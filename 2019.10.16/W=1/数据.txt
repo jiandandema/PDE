@@ -1,0 +1,9 @@
+W = 1；
+Re = 10000；
+rate = 1000；
+lidvelocity = 0.1;
+delta_x = 1/199;
+delta_t = 0.01*delta_x;
+pho = 1;
+H = 1;
+L = 1;

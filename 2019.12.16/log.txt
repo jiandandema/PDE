@@ -1,0 +1,496 @@
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 1.05795  2.89038  3.05789
+current error: [1.05795]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 1.35657  2.89038  3.921
+current error: [1.35657]
+
+/********* start new time layer 2001 *************/
+current time layer: [1.00503, 1.00553]
+current L^2 error = 1.5344  2.89038  4.43499
+current error: [1.5344]
+
+/********* start new time layer 3001 *************/
+current time layer: [1.50754, 1.50804]
+current L^2 error = 1.70143  2.89038  4.91779
+current error: [1.70143]
+
+/********* start new time layer 4001 *************/
+current time layer: [2.01005, 2.01055]
+current L^2 error = 1.86732  2.89038  5.39726
+current error: [1.86732]
+
+/********* start new time layer 5001 *************/
+current time layer: [2.51256, 2.51307]
+current L^2 error = 2.03208  2.89038  5.87348
+current error: [2.03208]
+
+/********* start new time layer 6001 *************/
+current time layer: [3.01508, 3.01558]
+current L^2 error = 2.19214  2.89038  6.33611
+current error: [2.19214]
+^C[mpiexec@w301] Sending Ctrl-C to processes as requested
+[mpiexec@w301] Press Ctrl-C again to force abort
+
+(base) w301@w301:~/data/handsomema/2019.12.16$ rm *.dat
+(base) w301@w301:~/data/handsomema/2019.12.16$ ls
+def.h  initial.c  initial.o  main  main.c  main.o  makefile  myformfunction.c  myformfunction.o
+(base) w301@w301:~/data/handsomema/2019.12.16$ make clean
+(base) w301@w301:~/data/handsomema/2019.12.16$ make main
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -o main.o -c -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3   -I/home/w301/data/handsomema/petsc/include -I/home/w301/data/handsomema/petsc/arch-linux-c-debug/include    main.c -o main.o
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -o myformfunction.o -c -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3   -I/home/w301/data/handsomema/petsc/include -I/home/w301/data/handsomema/petsc/arch-linux-c-debug/include    myformfunction.c -o myformfunction.o
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -o initial.o -c -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3   -I/home/w301/data/handsomema/petsc/include -I/home/w301/data/handsomema/petsc/arch-linux-c-debug/include    initial.c -o initial.o
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3  -o ./main ./main.o ./myformfunction.o ./initial.o  -Wl,-rpath,/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -L/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -Wl,-rpath,/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -L/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -Wl,-rpath,/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5 -Wl,-rpath,/usr/lib/x86_64-linux-gnu -L/usr/lib/x86_64-linux-gnu -Wl,-rpath,/lib/x86_64-linux-gnu -L/lib/x86_64-linux-gnu -lpetsc -lflapack -lfblas -lm -lX11 -lpthread -lstdc++ -ldl -lmpifort -lmpi -lgfortran -lm -lgfortran -lm -lgcc_s -lquadmath -lstdc++ -ldl
+(base) w301@w301:~/data/handsomema/2019.12.16$ make run
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 1.05795  2.89038  3.05789
+current error: [1.05795]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 1.36969  2.89038  3.95892
+current error: [1.36969]
+
+/********* start new time layer 2001 *************/
+current time layer: [1.00503, 1.00553]
+current L^2 error = 1.57607  2.89038  4.55542
+current error: [1.57607]
+
+/********* start new time layer 3001 *************/
+current time layer: [1.50754, 1.50804]
+current L^2 error = 1.76358  2.89038  5.09742
+current error: [1.76358]
+
+/********* start new time layer 4001 *************/
+current time layer: [2.01005, 2.01055]
+current L^2 error = 1.93157  2.89038  5.58297
+current error: [1.93157]
+
+/********* start new time layer 5001 *************/
+current time layer: [2.51256, 2.51307]
+current L^2 error = 2.0819  2.89038  6.01746
+current error: [2.0819]
+^C[mpiexec@w301] Sending Ctrl-C to processes as requested
+[mpiexec@w301] Press Ctrl-C again to force abort
+
+(base) w301@w301:~/data/handsomema/2019.12.16$ rm *.dat
+(base) w301@w301:~/data/handsomema/2019.12.16$ make run
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 1.05795  2.89038  3.05789
+current error: [1.05795]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 1.36969  2.89038  3.95892
+current error: [1.36969]
+^C[mpiexec@w301] Sending Ctrl-C to processes as requested
+[mpiexec@w301] Press Ctrl-C again to force abort
+
+(base) w301@w301:~/data/handsomema/2019.12.16$ make run
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 1.05795  2.89038  3.05789
+current error: [1.05795]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 1.36969  2.89038  3.95892
+current error: [1.36969]
+
+/********* start new time layer 2001 *************/
+current time layer: [1.00503, 1.00553]
+current L^2 error = 1.57607  2.89038  4.55542
+current error: [1.57607]
+
+/********* start new time layer 3001 *************/
+current time layer: [1.50754, 1.50804]
+current L^2 error = 1.76358  2.89038  5.09742
+current error: [1.76358]
+
+/********* start new time layer 4001 *************/
+current time layer: [2.01005, 2.01055]
+current L^2 error = 1.93157  2.89038  5.58297
+current error: [1.93157]
+
+/********* start new time layer 5001 *************/
+current time layer: [2.51256, 2.51307]
+current L^2 error = 2.0819  2.89038  6.01746
+current error: [2.0819]
+
+/********* start new time layer 6001 *************/
+current time layer: [3.01508, 3.01558]
+current L^2 error = 2.21618  2.89038  6.40559
+current error: [2.21618]
+
+/********* start new time layer 7001 *************/
+current time layer: [3.51759, 3.51809]
+current L^2 error = 2.33594  2.89038  6.75176
+current error: [2.33594]
+
+/********* start new time layer 8001 *************/
+current time layer: [4.0201, 4.0206]
+current L^2 error = 2.44267  2.89038  7.06024
+current error: [2.44267]
+^C[mpiexec@w301] Sending Ctrl-C to processes as requested
+[mpiexec@w301] Press Ctrl-C again to force abort
+
+(base) w301@w301:~/data/handsomema/2019.12.16$ make clean
+(base) w301@w301:~/data/handsomema/2019.12.16$ make main
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -o main.o -c -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3   -I/home/w301/data/handsomema/petsc/include -I/home/w301/data/handsomema/petsc/arch-linux-c-debug/include    main.c -o main.o
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -o myformfunction.o -c -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3   -I/home/w301/data/handsomema/petsc/include -I/home/w301/data/handsomema/petsc/arch-linux-c-debug/include    myformfunction.c -o myformfunction.o
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -o initial.o -c -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3   -I/home/w301/data/handsomema/petsc/include -I/home/w301/data/handsomema/petsc/arch-linux-c-debug/include    initial.c -o initial.o
+/home/w301/data/handsomema/petsc/arch-linux-c-debug/bin/mpicc -Wall -Wwrite-strings -Wno-strict-aliasing -Wno-unknown-pragmas -fstack-protector -fvisibility=hidden -g3  -o ./main ./main.o ./myformfunction.o ./initial.o  -Wl,-rpath,/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -L/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -Wl,-rpath,/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -L/home/w301/data/handsomema/petsc/arch-linux-c-debug/lib -Wl,-rpath,/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5 -Wl,-rpath,/usr/lib/x86_64-linux-gnu -L/usr/lib/x86_64-linux-gnu -Wl,-rpath,/lib/x86_64-linux-gnu -L/lib/x86_64-linux-gnu -lpetsc -lflapack -lfblas -lm -lX11 -lpthread -lstdc++ -ldl -lmpifort -lmpi -lgfortran -lm -lgfortran -lm -lgcc_s -lquadmath -lstdc++ -ldl
+(base) w301@w301:~/data/handsomema/2019.12.16$ make run
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 0.992435  11.5615  11.474
+current error: [0.992435]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 0.716971  11.5615  8.28926
+current error: [0.716971]
+
+/********* start new time layer 2001 *************/
+current time layer: [1.00503, 1.00553]
+current L^2 error = 0.619761  11.5615  7.16537
+current error: [0.619761]
+
+/********* start new time layer 3001 *************/
+current time layer: [1.50754, 1.50804]
+current L^2 error = 0.547844  11.5615  6.3339
+current error: [0.547844]
+
+/********* start new time layer 4001 *************/
+current time layer: [2.01005, 2.01055]
+current L^2 error = 0.491331  11.5615  5.68052
+current error: [0.491331]
+
+/********* start new time layer 5001 *************/
+current time layer: [2.51256, 2.51307]
+current L^2 error = 0.445664  11.5615  5.15254
+current error: [0.445664]
+
+/********* start new time layer 6001 *************/
+current time layer: [3.01508, 3.01558]
+current L^2 error = 0.408177  11.5615  4.71914
+current error: [0.408177]
+
+/********* start new time layer 7001 *************/
+current time layer: [3.51759, 3.51809]
+current L^2 error = 0.377102  11.5615  4.35986
+current error: [0.377102]
+
+/********* start new time layer 8001 *************/
+current time layer: [4.0201, 4.0206]
+current L^2 error = 0.351171  11.5615  4.06006
+current error: [0.351171]
+
+/********* start new time layer 9001 *************/
+current time layer: [4.52261, 4.52312]
+current L^2 error = 0.329435  11.5615  3.80876
+current error: [0.329435]
+
+/********* start new time layer 10001 *************/
+current time layer: [5.02513, 5.02563]
+current L^2 error = 0.311162  11.5615  3.59751
+current error: [0.311162]
+
+/********* start new time layer 11001 *************/
+current time layer: [5.52764, 5.52814]
+current L^2 error = 0.295774  11.5615  3.41959
+current error: [0.295774]
+
+/********* start new time layer 12001 *************/
+current time layer: [6.03015, 6.03065]
+current L^2 error = 0.282804  11.5615  3.26964
+current error: [0.282804]
+
+/********* start new time layer 13001 *************/
+current time layer: [6.53266, 6.53317]
+current L^2 error = 0.271874  11.5615  3.14327
+current error: [0.271874]
+
+/********* start new time layer 14001 *************/
+current time layer: [7.03518, 7.03568]
+current L^2 error = 0.262666  11.5615  3.03682
+current error: [0.262666]
+
+/********* start new time layer 15001 *************/
+current time layer: [7.53769, 7.53819]
+current L^2 error = 0.254919  11.5615  2.94725
+current error: [0.254919]
+
+/********* start new time layer 16001 *************/
+current time layer: [8.0402, 8.0407]
+current L^2 error = 0.24841  11.5615  2.87199
+current error: [0.24841]
+
+/********* start new time layer 17001 *************/
+current time layer: [8.54271, 8.54322]
+current L^2 error = 0.242948  11.5615  2.80884
+current error: [0.242948]
+
+/********* start new time layer 18001 *************/
+current time layer: [9.04523, 9.04573]
+current L^2 error = 0.238373  11.5615  2.75595
+current error: [0.238373]
+
+/********* start new time layer 19001 *************/
+current time layer: [9.54774, 9.54824]
+current L^2 error = 0.234546  11.5615  2.71171
+current error: [0.234546]
+
+/********* start new time layer 20001 *************/
+current time layer: [10.0503, 10.0508]
+current L^2 error = 0.231351  11.5615  2.67477
+current error: [0.231351]
+
+/********* start new time layer 21001 *************/
+current time layer: [10.5528, 10.5533]
+current L^2 error = 0.228687  11.5615  2.64397
+current error: [0.228687]
+
+/********* start new time layer 22001 *************/
+current time layer: [11.0553, 11.0558]
+current L^2 error = 0.226469  11.5615  2.61832
+current error: [0.226469]
+
+/********* start new time layer 23001 *************/
+current time layer: [11.5578, 11.5583]
+current L^2 error = 0.224624  11.5615  2.59699
+current error: [0.224624]
+
+/********* start new time layer 24001 *************/
+current time layer: [12.0603, 12.0608]
+current L^2 error = 0.223091  11.5615  2.57927
+current error: [0.223091]
+
+/********* start new time layer 25001 *************/
+current time layer: [12.5628, 12.5633]
+current L^2 error = 0.221819  11.5615  2.56457
+current error: [0.221819]
+
+/********* start new time layer 26001 *************/
+current time layer: [13.0653, 13.0658]
+current L^2 error = 0.220765  11.5615  2.55237
+current error: [0.220765]
+
+/********* start new time layer 27001 *************/
+current time layer: [13.5678, 13.5683]
+current L^2 error = 0.219891  11.5615  2.54227
+current error: [0.219891]
+
+/********* start new time layer 28001 *************/
+current time layer: [14.0704, 14.0709]
+current L^2 error = 0.219168  11.5615  2.53391
+current error: [0.219168]
+
+/********* start new time layer 29001 *************/
+current time layer: [14.5729, 14.5734]
+current L^2 error = 0.218569  11.5615  2.52699
+current error: [0.218569]
+
+/********* start new time layer 30001 *************/
+current time layer: [15.0754, 15.0759]
+current L^2 error = 0.218074  11.5615  2.52127
+current error: [0.218074]
+
+/********* start new time layer 31001 *************/
+current time layer: [15.5779, 15.5784]
+current L^2 error = 0.217665  11.5615  2.51654
+current error: [0.217665]
+
+/********* start new time layer 32001 *************/
+current time layer: [16.0804, 16.0809]
+current L^2 error = 0.217327  11.5615  2.51263
+current error: [0.217327]
+
+/********* start new time layer 33001 *************/
+current time layer: [16.5829, 16.5834]
+current L^2 error = 0.217048  11.5615  2.5094
+current error: [0.217048]
+
+/********* start new time layer 34001 *************/
+current time layer: [17.0854, 17.0859]
+current L^2 error = 0.216818  11.5615  2.50674
+current error: [0.216818]
+
+/********* start new time layer 35001 *************/
+current time layer: [17.5879, 17.5884]
+current L^2 error = 0.216628  11.5615  2.50454
+current error: [0.216628]
+
+/********* start new time layer 36001 *************/
+current time layer: [18.0905, 18.091]
+current L^2 error = 0.216471  11.5615  2.50273
+current error: [0.216471]
+
+/********* start new time layer 37001 *************/
+current time layer: [18.593, 18.5935]
+current L^2 error = 0.216341  11.5615  2.50123
+current error: [0.216341]
+
+/********* start new time layer 38001 *************/
+current time layer: [19.0955, 19.096]
+current L^2 error = 0.216234  11.5615  2.49999
+current error: [0.216234]
+
+/********* start new time layer 39001 *************/
+current time layer: [19.598, 19.5985]
+current L^2 error = 0.216146  11.5615  2.49897
+current error: [0.216146]
+
+/********* start new time layer 40001 *************/
+current time layer: [20.1005, 20.101]
+current L^2 error = 0.216074  11.5615  2.49813
+current error: [0.216074]
+
+/********* start new time layer 41001 *************/
+current time layer: [20.603, 20.6035]
+current L^2 error = 0.216014  11.5615  2.49744
+current error: [0.216014]
+
+/********* start new time layer 42001 *************/
+current time layer: [21.1055, 21.106]
+current L^2 error = 0.215964  11.5615  2.49687
+current error: [0.215964]
+
+/********* start new time layer 43001 *************/
+current time layer: [21.608, 21.6085]
+current L^2 error = 0.215924  11.5615  2.4964
+current error: [0.215924]
+
+/********* start new time layer 44001 *************/
+current time layer: [22.1106, 22.1111]
+current L^2 error = 0.21589  11.5615  2.49601
+current error: [0.21589]
+
+/********* start new time layer 45001 *************/
+current time layer: [22.6131, 22.6136]
+current L^2 error = 0.215863  11.5615  2.4957
+current error: [0.215863]
+
+/********* start new time layer 46001 *************/
+current time layer: [23.1156, 23.1161]
+current L^2 error = 0.21584  11.5615  2.49543
+current error: [0.21584]
+
+/********* start new time layer 47001 *************/
+current time layer: [23.6181, 23.6186]
+current L^2 error = 0.215821  11.5615  2.49522
+current error: [0.215821]
+
+/********* start new time layer 48001 *************/
+current time layer: [24.1206, 24.1211]
+current L^2 error = 0.215806  11.5615  2.49504
+current error: [0.215806]
+
+/********* start new time layer 49001 *************/
+current time layer: [24.6231, 24.6236]
+current L^2 error = 0.215793  11.5615  2.49489
+current error: [0.215793]
+
+/********* start new time layer 50001 *************/
+current time layer: [25.1256, 25.1261]
+current L^2 error = 0.215782  11.5615  2.49477
+current error: [0.215782]
+
+/********* start new time layer 51001 *************/
+current time layer: [25.6281, 25.6286]
+current L^2 error = 0.215774  11.5615  2.49467
+current error: [0.215774]
+
+/********* start new time layer 52001 *************/
+current time layer: [26.1307, 26.1312]
+current L^2 error = 0.215767  11.5615  2.49459
+current error: [0.215767]
+
+/********* start new time layer 53001 *************/
+current time layer: [26.6332, 26.6337]
+current L^2 error = 0.215761  11.5615  2.49452
+current error: [0.215761]
+
+/********* start new time layer 54001 *************/
+current time layer: [27.1357, 27.1362]
+current L^2 error = 0.215756  11.5615  2.49447
+current error: [0.215756]
+
+/********* start new time layer 55001 *************/
+current time layer: [27.6382, 27.6387]
+current L^2 error = 0.215752  11.5615  2.49442
+current error: [0.215752]
+
+/********* start new time layer 56001 *************/
+current time layer: [28.1407, 28.1412]
+current L^2 error = 0.215749  11.5615  2.49438
+current error: [0.215749]
+
+/********* start new time layer 57001 *************/
+current time layer: [28.6432, 28.6437]
+current L^2 error = 0.215746  11.5615  2.49435
+current error: [0.215746]
+
+/********* start new time layer 58001 *************/
+current time layer: [29.1457, 29.1462]
+current L^2 error = 0.215744  11.5615  2.49433
+current error: [0.215744]
+
+/********* start new time layer 59001 *************/
+current time layer: [29.6482, 29.6487]
+current L^2 error = 0.215742  11.5615  2.4943
+current error: [0.215742]
+
+/********* start new time layer 60001 *************/
+current time layer: [30.1508, 30.1513]
+current L^2 error = 0.215741  11.5615  2.49429
+current error: [0.215741]
+
+/********* start new time layer 61001 *************/
+current time layer: [30.6533, 30.6538]
+current L^2 error = 0.21574  11.5615  2.49427
+current error: [0.21574]
+
+/********* start new time layer 62001 *************/
+current time layer: [31.1558, 31.1563]
+current L^2 error = 0.215738  11.5615  2.49426
+current error: [0.215738]
+
+/********* start new time layer 63001 *************/
+current time layer: [31.6583, 31.6588]
+current L^2 error = 0.215738  11.5615  2.49425
+current error: [0.215738]
+
+/********* start new time layer 64001 *************/
+current time layer: [32.1608, 32.1613]
+current L^2 error = 0.215737  11.5615  2.49424
+current error: [0.215737]
+
+/********* start new time layer 65001 *************/
+current time layer: [32.6633, 32.6638]
+current L^2 error = 0.215736  11.5615  2.49424
+current error: [0.215736]
+
+/********* start new time layer 66001 *************/
+current time layer: [33.1658, 33.1663]
+current L^2 error = 0.215736  11.5615  2.49423
+current error: [0.215736]
+
+/********* start new time layer 67001 *************/
+current time layer: [33.6683, 33.6688]
+current L^2 error = 0.215736  11.5615  2.49423
+current error: [0.215736]
+
+/********* start new time layer 68001 *************/
+current time layer: [34.1709, 34.1714]
+current L^2 error = 0.215735  11.5615  2.49422
+current error: [0.215735]

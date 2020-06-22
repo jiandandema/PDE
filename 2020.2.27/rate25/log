@@ -1,0 +1,1994 @@
+nohup: 忽略输入
+
+/********* start new time layer 1 *************/
+current time layer: [0., 0.000502513]
+current L^2 error = 0.99999  14.5694  14.5692
+current error: [0.99999]
+
+/********* start new time layer 1001 *************/
+current time layer: [0.502513, 0.503015]
+current L^2 error = 0.990004  14.5694  14.4237
+current error: [0.990004]
+
+/********* start new time layer 2001 *************/
+current time layer: [1.00503, 1.00553]
+current L^2 error = 0.980139  14.5694  14.28
+current error: [0.980139]
+
+/********* start new time layer 3001 *************/
+current time layer: [1.50754, 1.50804]
+current L^2 error = 0.970389  14.5694  14.138
+current error: [0.970389]
+
+/********* start new time layer 4001 *************/
+current time layer: [2.01005, 2.01055]
+current L^2 error = 0.96075  14.5694  13.9975
+current error: [0.96075]
+
+/********* start new time layer 5001 *************/
+current time layer: [2.51256, 2.51307]
+current L^2 error = 0.95122  14.5694  13.8587
+current error: [0.95122]
+
+/********* start new time layer 6001 *************/
+current time layer: [3.01508, 3.01558]
+current L^2 error = 0.941797  14.5694  13.7214
+current error: [0.941797]
+
+/********* start new time layer 7001 *************/
+current time layer: [3.51759, 3.51809]
+current L^2 error = 0.932483  14.5694  13.5857
+current error: [0.932483]
+
+/********* start new time layer 8001 *************/
+current time layer: [4.0201, 4.0206]
+current L^2 error = 0.923276  14.5694  13.4516
+current error: [0.923276]
+
+/********* start new time layer 9001 *************/
+current time layer: [4.52261, 4.52312]
+current L^2 error = 0.914176  14.5694  13.319
+current error: [0.914176]
+
+/********* start new time layer 10001 *************/
+current time layer: [5.02513, 5.02563]
+current L^2 error = 0.905183  14.5694  13.1879
+current error: [0.905183]
+
+/********* start new time layer 11001 *************/
+current time layer: [5.52764, 5.52814]
+current L^2 error = 0.896296  14.5694  13.0585
+current error: [0.896296]
+
+/********* start new time layer 12001 *************/
+current time layer: [6.03015, 6.03065]
+current L^2 error = 0.887515  14.5694  12.9305
+current error: [0.887515]
+
+/********* start new time layer 13001 *************/
+current time layer: [6.53266, 6.53317]
+current L^2 error = 0.878839  14.5694  12.8041
+current error: [0.878839]
+
+/********* start new time layer 14001 *************/
+current time layer: [7.03518, 7.03568]
+current L^2 error = 0.870268  14.5694  12.6793
+current error: [0.870268]
+
+/********* start new time layer 15001 *************/
+current time layer: [7.53769, 7.53819]
+current L^2 error = 0.8618  14.5694  12.5559
+current error: [0.8618]
+
+/********* start new time layer 16001 *************/
+current time layer: [8.0402, 8.0407]
+current L^2 error = 0.853436  14.5694  12.434
+current error: [0.853436]
+
+/********* start new time layer 17001 *************/
+current time layer: [8.54271, 8.54322]
+current L^2 error = 0.845173  14.5694  12.3136
+current error: [0.845173]
+
+/********* start new time layer 18001 *************/
+current time layer: [9.04523, 9.04573]
+current L^2 error = 0.837011  14.5694  12.1947
+current error: [0.837011]
+
+/********* start new time layer 19001 *************/
+current time layer: [9.54774, 9.54824]
+current L^2 error = 0.82895  14.5694  12.0773
+current error: [0.82895]
+
+/********* start new time layer 20001 *************/
+current time layer: [10.0503, 10.0508]
+current L^2 error = 0.820987  14.5694  11.9613
+current error: [0.820987]
+
+/********* start new time layer 21001 *************/
+current time layer: [10.5528, 10.5533]
+current L^2 error = 0.813122  14.5694  11.8467
+current error: [0.813122]
+
+/********* start new time layer 22001 *************/
+current time layer: [11.0553, 11.0558]
+current L^2 error = 0.805355  14.5694  11.7335
+current error: [0.805355]
+
+/********* start new time layer 23001 *************/
+current time layer: [11.5578, 11.5583]
+current L^2 error = 0.797684  14.5694  11.6217
+current error: [0.797684]
+
+/********* start new time layer 24001 *************/
+current time layer: [12.0603, 12.0608]
+current L^2 error = 0.790107  14.5694  11.5114
+current error: [0.790107]
+
+/********* start new time layer 25001 *************/
+current time layer: [12.5628, 12.5633]
+current L^2 error = 0.782624  14.5694  11.4023
+current error: [0.782624]
+
+/********* start new time layer 26001 *************/
+current time layer: [13.0653, 13.0658]
+current L^2 error = 0.775235  14.5694  11.2947
+current error: [0.775235]
+
+/********* start new time layer 27001 *************/
+current time layer: [13.5678, 13.5683]
+current L^2 error = 0.767936  14.5694  11.1884
+current error: [0.767936]
+
+/********* start new time layer 28001 *************/
+current time layer: [14.0704, 14.0709]
+current L^2 error = 0.760729  14.5694  11.0833
+current error: [0.760729]
+
+/********* start new time layer 29001 *************/
+current time layer: [14.5729, 14.5734]
+current L^2 error = 0.753612  14.5694  10.9796
+current error: [0.753612]
+
+/********* start new time layer 30001 *************/
+current time layer: [15.0754, 15.0759]
+current L^2 error = 0.746583  14.5694  10.8772
+current error: [0.746583]
+
+/********* start new time layer 31001 *************/
+current time layer: [15.5779, 15.5784]
+current L^2 error = 0.739641  14.5694  10.7761
+current error: [0.739641]
+
+/********* start new time layer 32001 *************/
+current time layer: [16.0804, 16.0809]
+current L^2 error = 0.732786  14.5694  10.6762
+current error: [0.732786]
+
+/********* start new time layer 33001 *************/
+current time layer: [16.5829, 16.5834]
+current L^2 error = 0.726017  14.5694  10.5776
+current error: [0.726017]
+
+/********* start new time layer 34001 *************/
+current time layer: [17.0854, 17.0859]
+current L^2 error = 0.719332  14.5694  10.4802
+current error: [0.719332]
+
+/********* start new time layer 35001 *************/
+current time layer: [17.5879, 17.5884]
+current L^2 error = 0.712731  14.5694  10.384
+current error: [0.712731]
+
+/********* start new time layer 36001 *************/
+current time layer: [18.0905, 18.091]
+current L^2 error = 0.706212  14.5694  10.2891
+current error: [0.706212]
+
+/********* start new time layer 37001 *************/
+current time layer: [18.593, 18.5935]
+current L^2 error = 0.699775  14.5694  10.1953
+current error: [0.699775]
+
+/********* start new time layer 38001 *************/
+current time layer: [19.0955, 19.096]
+current L^2 error = 0.693418  14.5694  10.1027
+current error: [0.693418]
+
+/********* start new time layer 39001 *************/
+current time layer: [19.598, 19.5985]
+current L^2 error = 0.687141  14.5694  10.0112
+current error: [0.687141]
+
+/********* start new time layer 40001 *************/
+current time layer: [20.1005, 20.101]
+current L^2 error = 0.680943  14.5694  9.92091
+current error: [0.680943]
+
+/********* start new time layer 41001 *************/
+current time layer: [20.603, 20.6035]
+current L^2 error = 0.674822  14.5694  9.83174
+current error: [0.674822]
+
+/********* start new time layer 42001 *************/
+current time layer: [21.1055, 21.106]
+current L^2 error = 0.668778  14.5694  9.74368
+current error: [0.668778]
+
+/********* start new time layer 43001 *************/
+current time layer: [21.608, 21.6085]
+current L^2 error = 0.66281  14.5694  9.65673
+current error: [0.66281]
+
+/********* start new time layer 44001 *************/
+current time layer: [22.1106, 22.1111]
+current L^2 error = 0.656917  14.5694  9.57087
+current error: [0.656917]
+
+/********* start new time layer 45001 *************/
+current time layer: [22.6131, 22.6136]
+current L^2 error = 0.651097  14.5694  9.48608
+current error: [0.651097]
+
+/********* start new time layer 46001 *************/
+current time layer: [23.1156, 23.1161]
+current L^2 error = 0.645351  14.5694  9.40236
+current error: [0.645351]
+
+/********* start new time layer 47001 *************/
+current time layer: [23.6181, 23.6186]
+current L^2 error = 0.639677  14.5694  9.3197
+current error: [0.639677]
+
+/********* start new time layer 48001 *************/
+current time layer: [24.1206, 24.1211]
+current L^2 error = 0.634075  14.5694  9.23807
+current error: [0.634075]
+
+/********* start new time layer 49001 *************/
+current time layer: [24.6231, 24.6236]
+current L^2 error = 0.628542  14.5694  9.15747
+current error: [0.628542]
+
+/********* start new time layer 50001 *************/
+current time layer: [25.1256, 25.1261]
+current L^2 error = 0.62308  14.5694  9.07788
+current error: [0.62308]
+
+/********* start new time layer 51001 *************/
+current time layer: [25.6281, 25.6286]
+current L^2 error = 0.617686  14.5694  8.9993
+current error: [0.617686]
+
+/********* start new time layer 52001 *************/
+current time layer: [26.1307, 26.1312]
+current L^2 error = 0.61236  14.5694  8.9217
+current error: [0.61236]
+
+/********* start new time layer 53001 *************/
+current time layer: [26.6332, 26.6337]
+current L^2 error = 0.607101  14.5694  8.84508
+current error: [0.607101]
+
+/********* start new time layer 54001 *************/
+current time layer: [27.1357, 27.1362]
+current L^2 error = 0.601909  14.5694  8.76943
+current error: [0.601909]
+
+/********* start new time layer 55001 *************/
+current time layer: [27.6382, 27.6387]
+current L^2 error = 0.596782  14.5694  8.69473
+current error: [0.596782]
+
+/********* start new time layer 56001 *************/
+current time layer: [28.1407, 28.1412]
+current L^2 error = 0.591719  14.5694  8.62098
+current error: [0.591719]
+
+/********* start new time layer 57001 *************/
+current time layer: [28.6432, 28.6437]
+current L^2 error = 0.58672  14.5694  8.54815
+current error: [0.58672]
+
+/********* start new time layer 58001 *************/
+current time layer: [29.1457, 29.1462]
+current L^2 error = 0.581785  14.5694  8.47624
+current error: [0.581785]
+
+/********* start new time layer 59001 *************/
+current time layer: [29.6482, 29.6487]
+current L^2 error = 0.576912  14.5694  8.40524
+current error: [0.576912]
+
+/********* start new time layer 60001 *************/
+current time layer: [30.1508, 30.1513]
+current L^2 error = 0.5721  14.5694  8.33514
+current error: [0.5721]
+
+/********* start new time layer 61001 *************/
+current time layer: [30.6533, 30.6538]
+current L^2 error = 0.567349  14.5694  8.26592
+current error: [0.567349]
+
+/********* start new time layer 62001 *************/
+current time layer: [31.1558, 31.1563]
+current L^2 error = 0.562659  14.5694  8.19758
+current error: [0.562659]
+
+/********* start new time layer 63001 *************/
+current time layer: [31.6583, 31.6588]
+current L^2 error = 0.558027  14.5694  8.13011
+current error: [0.558027]
+
+/********* start new time layer 64001 *************/
+current time layer: [32.1608, 32.1613]
+current L^2 error = 0.553454  14.5694  8.06348
+current error: [0.553454]
+
+/********* start new time layer 65001 *************/
+current time layer: [32.6633, 32.6638]
+current L^2 error = 0.548939  14.5694  7.9977
+current error: [0.548939]
+
+/********* start new time layer 66001 *************/
+current time layer: [33.1658, 33.1663]
+current L^2 error = 0.544481  14.5694  7.93275
+current error: [0.544481]
+
+/********* start new time layer 67001 *************/
+current time layer: [33.6683, 33.6688]
+current L^2 error = 0.54008  14.5694  7.86863
+current error: [0.54008]
+
+/********* start new time layer 68001 *************/
+current time layer: [34.1709, 34.1714]
+current L^2 error = 0.535734  14.5694  7.80531
+current error: [0.535734]
+
+/********* start new time layer 69001 *************/
+current time layer: [34.6734, 34.6739]
+current L^2 error = 0.531444  14.5694  7.7428
+current error: [0.531444]
+
+/********* start new time layer 70001 *************/
+current time layer: [35.1759, 35.1764]
+current L^2 error = 0.527208  14.5694  7.68108
+current error: [0.527208]
+
+/********* start new time layer 71001 *************/
+current time layer: [35.6784, 35.6789]
+current L^2 error = 0.523025  14.5694  7.62015
+current error: [0.523025]
+
+/********* start new time layer 72001 *************/
+current time layer: [36.1809, 36.1814]
+current L^2 error = 0.518896  14.5694  7.55999
+current error: [0.518896]
+
+/********* start new time layer 73001 *************/
+current time layer: [36.6834, 36.6839]
+current L^2 error = 0.514819  14.5694  7.50059
+current error: [0.514819]
+
+/********* start new time layer 74001 *************/
+current time layer: [37.1859, 37.1864]
+current L^2 error = 0.510794  14.5694  7.44194
+current error: [0.510794]
+
+/********* start new time layer 75001 *************/
+current time layer: [37.6884, 37.6889]
+current L^2 error = 0.50682  14.5694  7.38404
+current error: [0.50682]
+
+/********* start new time layer 76001 *************/
+current time layer: [38.191, 38.1915]
+current L^2 error = 0.502896  14.5694  7.32688
+current error: [0.502896]
+
+/********* start new time layer 77001 *************/
+current time layer: [38.6935, 38.694]
+current L^2 error = 0.499022  14.5694  7.27044
+current error: [0.499022]
+
+/********* start new time layer 78001 *************/
+current time layer: [39.196, 39.1965]
+current L^2 error = 0.495198  14.5694  7.21472
+current error: [0.495198]
+
+/********* start new time layer 79001 *************/
+current time layer: [39.6985, 39.699]
+current L^2 error = 0.491422  14.5694  7.15971
+current error: [0.491422]
+
+/********* start new time layer 80001 *************/
+current time layer: [40.201, 40.2015]
+current L^2 error = 0.487694  14.5694  7.1054
+current error: [0.487694]
+
+/********* start new time layer 81001 *************/
+current time layer: [40.7035, 40.704]
+current L^2 error = 0.484014  14.5694  7.05178
+current error: [0.484014]
+
+/********* start new time layer 82001 *************/
+current time layer: [41.206, 41.2065]
+current L^2 error = 0.480381  14.5694  6.99884
+current error: [0.480381]
+
+/********* start new time layer 83001 *************/
+current time layer: [41.7085, 41.709]
+current L^2 error = 0.476793  14.5694  6.94658
+current error: [0.476793]
+
+/********* start new time layer 84001 *************/
+current time layer: [42.2111, 42.2116]
+current L^2 error = 0.473252  14.5694  6.89499
+current error: [0.473252]
+
+/********* start new time layer 85001 *************/
+current time layer: [42.7136, 42.7141]
+current L^2 error = 0.469756  14.5694  6.84405
+current error: [0.469756]
+
+/********* start new time layer 86001 *************/
+current time layer: [43.2161, 43.2166]
+current L^2 error = 0.466304  14.5694  6.79376
+current error: [0.466304]
+
+/********* start new time layer 87001 *************/
+current time layer: [43.7186, 43.7191]
+current L^2 error = 0.462896  14.5694  6.74411
+current error: [0.462896]
+
+/********* start new time layer 88001 *************/
+current time layer: [44.2211, 44.2216]
+current L^2 error = 0.459532  14.5694  6.6951
+current error: [0.459532]
+
+/********* start new time layer 89001 *************/
+current time layer: [44.7236, 44.7241]
+current L^2 error = 0.456211  14.5694  6.64671
+current error: [0.456211]
+
+/********* start new time layer 90001 *************/
+current time layer: [45.2261, 45.2266]
+current L^2 error = 0.452932  14.5694  6.59894
+current error: [0.452932]
+
+/********* start new time layer 91001 *************/
+current time layer: [45.7286, 45.7291]
+current L^2 error = 0.449695  14.5694  6.55178
+current error: [0.449695]
+
+/********* start new time layer 92001 *************/
+current time layer: [46.2312, 46.2317]
+current L^2 error = 0.4465  14.5694  6.50522
+current error: [0.4465]
+
+/********* start new time layer 93001 *************/
+current time layer: [46.7337, 46.7342]
+current L^2 error = 0.443345  14.5694  6.45926
+current error: [0.443345]
+
+/********* start new time layer 94001 *************/
+current time layer: [47.2362, 47.2367]
+current L^2 error = 0.440231  14.5694  6.41389
+current error: [0.440231]
+
+/********* start new time layer 95001 *************/
+current time layer: [47.7387, 47.7392]
+current L^2 error = 0.437156  14.5694  6.36909
+current error: [0.437156]
+
+/********* start new time layer 96001 *************/
+current time layer: [48.2412, 48.2417]
+current L^2 error = 0.434121  14.5694  6.32487
+current error: [0.434121]
+
+/********* start new time layer 97001 *************/
+current time layer: [48.7437, 48.7442]
+current L^2 error = 0.431125  14.5694  6.28122
+current error: [0.431125]
+
+/********* start new time layer 98001 *************/
+current time layer: [49.2462, 49.2467]
+current L^2 error = 0.428167  14.5694  6.23812
+current error: [0.428167]
+
+/********* start new time layer 99001 *************/
+current time layer: [49.7487, 49.7492]
+current L^2 error = 0.425247  14.5694  6.19558
+current error: [0.425247]
+
+/********* start new time layer 100001 *************/
+current time layer: [50.2513, 50.2518]
+current L^2 error = 0.422364  14.5694  6.15358
+current error: [0.422364]
+
+/********* start new time layer 101001 *************/
+current time layer: [50.7538, 50.7543]
+current L^2 error = 0.419519  14.5694  6.11212
+current error: [0.419519]
+
+/********* start new time layer 102001 *************/
+current time layer: [51.2563, 51.2568]
+current L^2 error = 0.416709  14.5694  6.0712
+current error: [0.416709]
+
+/********* start new time layer 103001 *************/
+current time layer: [51.7588, 51.7593]
+current L^2 error = 0.413936  14.5694  6.03079
+current error: [0.413936]
+
+/********* start new time layer 104001 *************/
+current time layer: [52.2613, 52.2618]
+current L^2 error = 0.411199  14.5694  5.99091
+current error: [0.411199]
+
+/********* start new time layer 105001 *************/
+current time layer: [52.7638, 52.7643]
+current L^2 error = 0.408496  14.5694  5.95154
+current error: [0.408496]
+
+/********* start new time layer 106001 *************/
+current time layer: [53.2663, 53.2668]
+current L^2 error = 0.405829  14.5694  5.91267
+current error: [0.405829]
+
+/********* start new time layer 107001 *************/
+current time layer: [53.7688, 53.7693]
+current L^2 error = 0.403195  14.5694  5.8743
+current error: [0.403195]
+
+/********* start new time layer 108001 *************/
+current time layer: [54.2714, 54.2719]
+current L^2 error = 0.400596  14.5694  5.83643
+current error: [0.400596]
+
+/********* start new time layer 109001 *************/
+current time layer: [54.7739, 54.7744]
+current L^2 error = 0.398029  14.5694  5.79904
+current error: [0.398029]
+
+/********* start new time layer 110001 *************/
+current time layer: [55.2764, 55.2769]
+current L^2 error = 0.395496  14.5694  5.76213
+current error: [0.395496]
+
+/********* start new time layer 111001 *************/
+current time layer: [55.7789, 55.7794]
+current L^2 error = 0.392996  14.5694  5.7257
+current error: [0.392996]
+
+/********* start new time layer 112001 *************/
+current time layer: [56.2814, 56.2819]
+current L^2 error = 0.390527  14.5694  5.68973
+current error: [0.390527]
+
+/********* start new time layer 113001 *************/
+current time layer: [56.7839, 56.7844]
+current L^2 error = 0.38809  14.5694  5.65423
+current error: [0.38809]
+
+/********* start new time layer 114001 *************/
+current time layer: [57.2864, 57.2869]
+current L^2 error = 0.385685  14.5694  5.61919
+current error: [0.385685]
+
+/********* start new time layer 115001 *************/
+current time layer: [57.7889, 57.7894]
+current L^2 error = 0.383311  14.5694  5.5846
+current error: [0.383311]
+
+/********* start new time layer 116001 *************/
+current time layer: [58.2915, 58.292]
+current L^2 error = 0.380967  14.5694  5.55045
+current error: [0.380967]
+
+/********* start new time layer 117001 *************/
+current time layer: [58.794, 58.7945]
+current L^2 error = 0.378653  14.5694  5.51674
+current error: [0.378653]
+
+/********* start new time layer 118001 *************/
+current time layer: [59.2965, 59.297]
+current L^2 error = 0.376369  14.5694  5.48347
+current error: [0.376369]
+
+/********* start new time layer 119001 *************/
+current time layer: [59.799, 59.7995]
+current L^2 error = 0.374115  14.5694  5.45062
+current error: [0.374115]
+
+/********* start new time layer 120001 *************/
+current time layer: [60.3015, 60.302]
+current L^2 error = 0.37189  14.5694  5.4182
+current error: [0.37189]
+
+/********* start new time layer 121001 *************/
+current time layer: [60.804, 60.8045]
+current L^2 error = 0.369693  14.5694  5.3862
+current error: [0.369693]
+
+/********* start new time layer 122001 *************/
+current time layer: [61.3065, 61.307]
+current L^2 error = 0.367525  14.5694  5.35461
+current error: [0.367525]
+
+/********* start new time layer 123001 *************/
+current time layer: [61.809, 61.8095]
+current L^2 error = 0.365385  14.5694  5.32342
+current error: [0.365385]
+
+/********* start new time layer 124001 *************/
+current time layer: [62.3116, 62.3121]
+current L^2 error = 0.363272  14.5694  5.29264
+current error: [0.363272]
+
+/********* start new time layer 125001 *************/
+current time layer: [62.8141, 62.8146]
+current L^2 error = 0.361187  14.5694  5.26226
+current error: [0.361187]
+
+/********* start new time layer 126001 *************/
+current time layer: [63.3166, 63.3171]
+current L^2 error = 0.359128  14.5694  5.23227
+current error: [0.359128]
+
+/********* start new time layer 127001 *************/
+current time layer: [63.8191, 63.8196]
+current L^2 error = 0.357096  14.5694  5.20267
+current error: [0.357096]
+
+/********* start new time layer 128001 *************/
+current time layer: [64.3216, 64.3221]
+current L^2 error = 0.355091  14.5694  5.17345
+current error: [0.355091]
+
+/********* start new time layer 129001 *************/
+current time layer: [64.8241, 64.8246]
+current L^2 error = 0.353111  14.5694  5.1446
+current error: [0.353111]
+
+/********* start new time layer 130001 *************/
+current time layer: [65.3266, 65.3271]
+current L^2 error = 0.351157  14.5694  5.11613
+current error: [0.351157]
+
+/********* start new time layer 131001 *************/
+current time layer: [65.8291, 65.8296]
+current L^2 error = 0.349228  14.5694  5.08803
+current error: [0.349228]
+
+/********* start new time layer 132001 *************/
+current time layer: [66.3317, 66.3322]
+current L^2 error = 0.347324  14.5694  5.06029
+current error: [0.347324]
+
+/********* start new time layer 133001 *************/
+current time layer: [66.8342, 66.8347]
+current L^2 error = 0.345445  14.5694  5.03291
+current error: [0.345445]
+
+/********* start new time layer 134001 *************/
+current time layer: [67.3367, 67.3372]
+current L^2 error = 0.34359  14.5694  5.00589
+current error: [0.34359]
+
+/********* start new time layer 135001 *************/
+current time layer: [67.8392, 67.8397]
+current L^2 error = 0.341759  14.5694  4.97921
+current error: [0.341759]
+
+/********* start new time layer 136001 *************/
+current time layer: [68.3417, 68.3422]
+current L^2 error = 0.339951  14.5694  4.95288
+current error: [0.339951]
+
+/********* start new time layer 137001 *************/
+current time layer: [68.8442, 68.8447]
+current L^2 error = 0.338167  14.5694  4.92689
+current error: [0.338167]
+
+/********* start new time layer 138001 *************/
+current time layer: [69.3467, 69.3472]
+current L^2 error = 0.336407  14.5694  4.90123
+current error: [0.336407]
+
+/********* start new time layer 139001 *************/
+current time layer: [69.8492, 69.8497]
+current L^2 error = 0.334669  14.5694  4.87591
+current error: [0.334669]
+
+/********* start new time layer 140001 *************/
+current time layer: [70.3518, 70.3523]
+current L^2 error = 0.332953  14.5694  4.85092
+current error: [0.332953]
+
+/********* start new time layer 141001 *************/
+current time layer: [70.8543, 70.8548]
+current L^2 error = 0.33126  14.5694  4.82625
+current error: [0.33126]
+
+/********* start new time layer 142001 *************/
+current time layer: [71.3568, 71.3573]
+current L^2 error = 0.329588  14.5694  4.8019
+current error: [0.329588]
+
+/********* start new time layer 143001 *************/
+current time layer: [71.8593, 71.8598]
+current L^2 error = 0.327939  14.5694  4.77786
+current error: [0.327939]
+
+/********* start new time layer 144001 *************/
+current time layer: [72.3618, 72.3623]
+current L^2 error = 0.32631  14.5694  4.75414
+current error: [0.32631]
+
+/********* start new time layer 145001 *************/
+current time layer: [72.8643, 72.8648]
+current L^2 error = 0.324703  14.5694  4.73072
+current error: [0.324703]
+
+/********* start new time layer 146001 *************/
+current time layer: [73.3668, 73.3673]
+current L^2 error = 0.323117  14.5694  4.70761
+current error: [0.323117]
+
+/********* start new time layer 147001 *************/
+current time layer: [73.8693, 73.8698]
+current L^2 error = 0.321551  14.5694  4.6848
+current error: [0.321551]
+
+/********* start new time layer 148001 *************/
+current time layer: [74.3719, 74.3724]
+current L^2 error = 0.320006  14.5694  4.66228
+current error: [0.320006]
+
+/********* start new time layer 149001 *************/
+current time layer: [74.8744, 74.8749]
+current L^2 error = 0.31848  14.5694  4.64006
+current error: [0.31848]
+
+/********* start new time layer 150001 *************/
+current time layer: [75.3769, 75.3774]
+current L^2 error = 0.316974  14.5694  4.61812
+current error: [0.316974]
+
+/********* start new time layer 151001 *************/
+current time layer: [75.8794, 75.8799]
+current L^2 error = 0.315488  14.5694  4.59647
+current error: [0.315488]
+
+/********* start new time layer 152001 *************/
+current time layer: [76.3819, 76.3824]
+current L^2 error = 0.314021  14.5694  4.5751
+current error: [0.314021]
+
+/********* start new time layer 153001 *************/
+current time layer: [76.8844, 76.8849]
+current L^2 error = 0.312574  14.5694  4.554
+current error: [0.312574]
+
+/********* start new time layer 154001 *************/
+current time layer: [77.3869, 77.3874]
+current L^2 error = 0.311145  14.5694  4.53318
+current error: [0.311145]
+
+/********* start new time layer 155001 *************/
+current time layer: [77.8894, 77.8899]
+current L^2 error = 0.309734  14.5694  4.51263
+current error: [0.309734]
+
+/********* start new time layer 156001 *************/
+current time layer: [78.392, 78.3925]
+current L^2 error = 0.308342  14.5694  4.49235
+current error: [0.308342]
+
+/********* start new time layer 157001 *************/
+current time layer: [78.8945, 78.895]
+current L^2 error = 0.306968  14.5694  4.47233
+current error: [0.306968]
+
+/********* start new time layer 158001 *************/
+current time layer: [79.397, 79.3975]
+current L^2 error = 0.305611  14.5694  4.45257
+current error: [0.305611]
+
+/********* start new time layer 159001 *************/
+current time layer: [79.8995, 79.9]
+current L^2 error = 0.304273  14.5694  4.43306
+current error: [0.304273]
+
+/********* start new time layer 160001 *************/
+current time layer: [80.402, 80.4025]
+current L^2 error = 0.302951  14.5694  4.41381
+current error: [0.302951]
+
+/********* start new time layer 161001 *************/
+current time layer: [80.9045, 80.905]
+current L^2 error = 0.301647  14.5694  4.39481
+current error: [0.301647]
+
+/********* start new time layer 162001 *************/
+current time layer: [81.407, 81.4075]
+current L^2 error = 0.30036  14.5694  4.37606
+current error: [0.30036]
+
+/********* start new time layer 163001 *************/
+current time layer: [81.9095, 81.9101]
+current L^2 error = 0.29909  14.5694  4.35755
+current error: [0.29909]
+
+/********* start new time layer 164001 *************/
+current time layer: [82.4121, 82.4126]
+current L^2 error = 0.297836  14.5694  4.33928
+current error: [0.297836]
+
+/********* start new time layer 165001 *************/
+current time layer: [82.9146, 82.9151]
+current L^2 error = 0.296598  14.5694  4.32125
+current error: [0.296598]
+
+/********* start new time layer 166001 *************/
+current time layer: [83.4171, 83.4176]
+current L^2 error = 0.295376  14.5694  4.30345
+current error: [0.295376]
+
+/********* start new time layer 167001 *************/
+current time layer: [83.9196, 83.9201]
+current L^2 error = 0.294171  14.5694  4.28588
+current error: [0.294171]
+
+/********* start new time layer 168001 *************/
+current time layer: [84.4221, 84.4226]
+current L^2 error = 0.29298  14.5694  4.26854
+current error: [0.29298]
+
+/********* start new time layer 169001 *************/
+current time layer: [84.9246, 84.9251]
+current L^2 error = 0.291806  14.5694  4.25143
+current error: [0.291806]
+
+/********* start new time layer 170001 *************/
+current time layer: [85.4271, 85.4276]
+current L^2 error = 0.290646  14.5694  4.23454
+current error: [0.290646]
+
+/********* start new time layer 171001 *************/
+current time layer: [85.9296, 85.9302]
+current L^2 error = 0.289502  14.5694  4.21786
+current error: [0.289502]
+
+/********* start new time layer 172001 *************/
+current time layer: [86.4322, 86.4327]
+current L^2 error = 0.288373  14.5694  4.20141
+current error: [0.288373]
+
+/********* start new time layer 173001 *************/
+current time layer: [86.9347, 86.9352]
+current L^2 error = 0.287258  14.5694  4.18517
+current error: [0.287258]
+
+/********* start new time layer 174001 *************/
+current time layer: [87.4372, 87.4377]
+current L^2 error = 0.286157  14.5694  4.16914
+current error: [0.286157]
+
+/********* start new time layer 175001 *************/
+current time layer: [87.9397, 87.9402]
+current L^2 error = 0.285071  14.5694  4.15331
+current error: [0.285071]
+
+/********* start new time layer 176001 *************/
+current time layer: [88.4422, 88.4427]
+current L^2 error = 0.284  14.5694  4.1377
+current error: [0.284]
+
+/********* start new time layer 177001 *************/
+current time layer: [88.9447, 88.9452]
+current L^2 error = 0.282942  14.5694  4.12228
+current error: [0.282942]
+
+/********* start new time layer 178001 *************/
+current time layer: [89.4472, 89.4477]
+current L^2 error = 0.281897  14.5694  4.10707
+current error: [0.281897]
+
+/********* start new time layer 179001 *************/
+current time layer: [89.9497, 89.9503]
+current L^2 error = 0.280867  14.5694  4.09205
+current error: [0.280867]
+
+/********* start new time layer 180001 *************/
+current time layer: [90.4523, 90.4528]
+current L^2 error = 0.279849  14.5694  4.07723
+current error: [0.279849]
+
+/********* start new time layer 181001 *************/
+current time layer: [90.9548, 90.9553]
+current L^2 error = 0.278845  14.5694  4.0626
+current error: [0.278845]
+
+/********* start new time layer 182001 *************/
+current time layer: [91.4573, 91.4578]
+current L^2 error = 0.277854  14.5694  4.04816
+current error: [0.277854]
+
+/********* start new time layer 183001 *************/
+current time layer: [91.9598, 91.9603]
+current L^2 error = 0.276876  14.5694  4.03391
+current error: [0.276876]
+
+/********* start new time layer 184001 *************/
+current time layer: [92.4623, 92.4628]
+current L^2 error = 0.27591  14.5694  4.01984
+current error: [0.27591]
+
+/********* start new time layer 185001 *************/
+current time layer: [92.9648, 92.9653]
+current L^2 error = 0.274957  14.5694  4.00596
+current error: [0.274957]
+
+/********* start new time layer 186001 *************/
+current time layer: [93.4673, 93.4678]
+current L^2 error = 0.274017  14.5694  3.99226
+current error: [0.274017]
+
+/********* start new time layer 187001 *************/
+current time layer: [93.9698, 93.9704]
+current L^2 error = 0.273089  14.5694  3.97873
+current error: [0.273089]
+
+/********* start new time layer 188001 *************/
+current time layer: [94.4724, 94.4729]
+current L^2 error = 0.272172  14.5694  3.96538
+current error: [0.272172]
+
+/********* start new time layer 189001 *************/
+current time layer: [94.9749, 94.9754]
+current L^2 error = 0.271268  14.5694  3.9522
+current error: [0.271268]
+
+/********* start new time layer 190001 *************/
+current time layer: [95.4774, 95.4779]
+current L^2 error = 0.270375  14.5694  3.9392
+current error: [0.270375]
+
+/********* start new time layer 191001 *************/
+current time layer: [95.9799, 95.9804]
+current L^2 error = 0.269494  14.5694  3.92636
+current error: [0.269494]
+
+/********* start new time layer 192001 *************/
+current time layer: [96.4824, 96.4829]
+current L^2 error = 0.268624  14.5694  3.91369
+current error: [0.268624]
+
+/********* start new time layer 193001 *************/
+current time layer: [96.9849, 96.9854]
+current L^2 error = 0.267766  14.5694  3.90118
+current error: [0.267766]
+
+/********* start new time layer 194001 *************/
+current time layer: [97.4874, 97.4879]
+current L^2 error = 0.266919  14.5694  3.88884
+current error: [0.266919]
+
+/********* start new time layer 195001 *************/
+current time layer: [97.9899, 97.9905]
+current L^2 error = 0.266083  14.5694  3.87666
+current error: [0.266083]
+
+/********* start new time layer 196001 *************/
+current time layer: [98.4925, 98.493]
+current L^2 error = 0.265257  14.5694  3.86463
+current error: [0.265257]
+
+/********* start new time layer 197001 *************/
+current time layer: [98.995, 98.9955]
+current L^2 error = 0.264443  14.5694  3.85276
+current error: [0.264443]
+
+/********* start new time layer 198001 *************/
+current time layer: [99.4975, 99.498]
+current L^2 error = 0.263638  14.5694  3.84105
+current error: [0.263638]
+
+/********* start new time layer 199001 *************/
+current time layer: [100., 100.001]
+current L^2 error = 0.262845  14.5694  3.82948
+current error: [0.262845]
+
+/********* start new time layer 200001 *************/
+current time layer: [100.503, 100.503]
+current L^2 error = 0.262061  14.5694  3.81807
+current error: [0.262061]
+
+/********* start new time layer 201001 *************/
+current time layer: [101.005, 101.006]
+current L^2 error = 0.261288  14.5694  3.8068
+current error: [0.261288]
+
+/********* start new time layer 202001 *************/
+current time layer: [101.508, 101.508]
+current L^2 error = 0.260525  14.5694  3.79568
+current error: [0.260525]
+
+/********* start new time layer 203001 *************/
+current time layer: [102.01, 102.011]
+current L^2 error = 0.259772  14.5694  3.78471
+current error: [0.259772]
+
+/********* start new time layer 204001 *************/
+current time layer: [102.513, 102.513]
+current L^2 error = 0.259028  14.5694  3.77388
+current error: [0.259028]
+
+/********* start new time layer 205001 *************/
+current time layer: [103.015, 103.016]
+current L^2 error = 0.258294  14.5694  3.76318
+current error: [0.258294]
+
+/********* start new time layer 206001 *************/
+current time layer: [103.518, 103.518]
+current L^2 error = 0.25757  14.5694  3.75263
+current error: [0.25757]
+
+/********* start new time layer 207001 *************/
+current time layer: [104.02, 104.021]
+current L^2 error = 0.256855  14.5694  3.74221
+current error: [0.256855]
+
+/********* start new time layer 208001 *************/
+current time layer: [104.523, 104.523]
+current L^2 error = 0.256149  14.5694  3.73193
+current error: [0.256149]
+
+/********* start new time layer 209001 *************/
+current time layer: [105.025, 105.026]
+current L^2 error = 0.255452  14.5694  3.72178
+current error: [0.255452]
+
+/********* start new time layer 210001 *************/
+current time layer: [105.528, 105.528]
+current L^2 error = 0.254765  14.5694  3.71176
+current error: [0.254765]
+
+/********* start new time layer 211001 *************/
+current time layer: [106.03, 106.031]
+current L^2 error = 0.254086  14.5694  3.70187
+current error: [0.254086]
+
+/********* start new time layer 212001 *************/
+current time layer: [106.533, 106.533]
+current L^2 error = 0.253416  14.5694  3.69211
+current error: [0.253416]
+
+/********* start new time layer 213001 *************/
+current time layer: [107.035, 107.036]
+current L^2 error = 0.252755  14.5694  3.68248
+current error: [0.252755]
+
+/********* start new time layer 214001 *************/
+current time layer: [107.538, 107.538]
+current L^2 error = 0.252102  14.5694  3.67297
+current error: [0.252102]
+
+/********* start new time layer 215001 *************/
+current time layer: [108.04, 108.041]
+current L^2 error = 0.251458  14.5694  3.66358
+current error: [0.251458]
+
+/********* start new time layer 216001 *************/
+current time layer: [108.543, 108.543]
+current L^2 error = 0.250822  14.5694  3.65432
+current error: [0.250822]
+
+/********* start new time layer 217001 *************/
+current time layer: [109.045, 109.046]
+current L^2 error = 0.250194  14.5694  3.64517
+current error: [0.250194]
+
+/********* start new time layer 218001 *************/
+current time layer: [109.548, 109.548]
+current L^2 error = 0.249575  14.5694  3.63615
+current error: [0.249575]
+
+/********* start new time layer 219001 *************/
+current time layer: [110.05, 110.051]
+current L^2 error = 0.248963  14.5694  3.62724
+current error: [0.248963]
+
+/********* start new time layer 220001 *************/
+current time layer: [110.553, 110.553]
+current L^2 error = 0.248359  14.5694  3.61844
+current error: [0.248359]
+
+/********* start new time layer 221001 *************/
+current time layer: [111.055, 111.056]
+current L^2 error = 0.247764  14.5694  3.60976
+current error: [0.247764]
+
+/********* start new time layer 222001 *************/
+current time layer: [111.558, 111.558]
+current L^2 error = 0.247175  14.5694  3.60119
+current error: [0.247175]
+
+/********* start new time layer 223001 *************/
+current time layer: [112.06, 112.061]
+current L^2 error = 0.246595  14.5694  3.59273
+current error: [0.246595]
+
+/********* start new time layer 224001 *************/
+current time layer: [112.563, 112.563]
+current L^2 error = 0.246022  14.5694  3.58438
+current error: [0.246022]
+
+/********* start new time layer 225001 *************/
+current time layer: [113.065, 113.066]
+current L^2 error = 0.245456  14.5694  3.57614
+current error: [0.245456]
+
+/********* start new time layer 226001 *************/
+current time layer: [113.568, 113.568]
+current L^2 error = 0.244898  14.5694  3.56801
+current error: [0.244898]
+
+/********* start new time layer 227001 *************/
+current time layer: [114.07, 114.071]
+current L^2 error = 0.244347  14.5694  3.55998
+current error: [0.244347]
+
+/********* start new time layer 228001 *************/
+current time layer: [114.573, 114.573]
+current L^2 error = 0.243803  14.5694  3.55205
+current error: [0.243803]
+
+/********* start new time layer 229001 *************/
+current time layer: [115.075, 115.076]
+current L^2 error = 0.243266  14.5694  3.54423
+current error: [0.243266]
+
+/********* start new time layer 230001 *************/
+current time layer: [115.578, 115.578]
+current L^2 error = 0.242736  14.5694  3.53651
+current error: [0.242736]
+
+/********* start new time layer 231001 *************/
+current time layer: [116.08, 116.081]
+current L^2 error = 0.242212  14.5694  3.52888
+current error: [0.242212]
+
+/********* start new time layer 232001 *************/
+current time layer: [116.583, 116.583]
+current L^2 error = 0.241696  14.5694  3.52136
+current error: [0.241696]
+
+/********* start new time layer 233001 *************/
+current time layer: [117.085, 117.086]
+current L^2 error = 0.241186  14.5694  3.51393
+current error: [0.241186]
+
+/********* start new time layer 234001 *************/
+current time layer: [117.588, 117.588]
+current L^2 error = 0.240683  14.5694  3.5066
+current error: [0.240683]
+
+/********* start new time layer 235001 *************/
+current time layer: [118.09, 118.091]
+current L^2 error = 0.240186  14.5694  3.49936
+current error: [0.240186]
+
+/********* start new time layer 236001 *************/
+current time layer: [118.593, 118.593]
+current L^2 error = 0.239696  14.5694  3.49222
+current error: [0.239696]
+
+/********* start new time layer 237001 *************/
+current time layer: [119.095, 119.096]
+current L^2 error = 0.239212  14.5694  3.48516
+current error: [0.239212]
+
+/********* start new time layer 238001 *************/
+current time layer: [119.598, 119.598]
+current L^2 error = 0.238734  14.5694  3.4782
+current error: [0.238734]
+
+/********* start new time layer 239001 *************/
+current time layer: [120.101, 120.101]
+current L^2 error = 0.238262  14.5694  3.47133
+current error: [0.238262]
+
+/********* start new time layer 240001 *************/
+current time layer: [120.603, 120.604]
+current L^2 error = 0.237796  14.5694  3.46455
+current error: [0.237796]
+
+/********* start new time layer 241001 *************/
+current time layer: [121.106, 121.106]
+current L^2 error = 0.237337  14.5694  3.45785
+current error: [0.237337]
+
+/********* start new time layer 242001 *************/
+current time layer: [121.608, 121.609]
+current L^2 error = 0.236883  14.5694  3.45124
+current error: [0.236883]
+
+/********* start new time layer 243001 *************/
+current time layer: [122.111, 122.111]
+current L^2 error = 0.236435  14.5694  3.44471
+current error: [0.236435]
+
+/********* start new time layer 244001 *************/
+current time layer: [122.613, 122.614]
+current L^2 error = 0.235993  14.5694  3.43827
+current error: [0.235993]
+
+/********* start new time layer 245001 *************/
+current time layer: [123.116, 123.116]
+current L^2 error = 0.235557  14.5694  3.43192
+current error: [0.235557]
+
+/********* start new time layer 246001 *************/
+current time layer: [123.618, 123.619]
+current L^2 error = 0.235126  14.5694  3.42564
+current error: [0.235126]
+
+/********* start new time layer 247001 *************/
+current time layer: [124.121, 124.121]
+current L^2 error = 0.234701  14.5694  3.41944
+current error: [0.234701]
+
+/********* start new time layer 248001 *************/
+current time layer: [124.623, 124.624]
+current L^2 error = 0.234281  14.5694  3.41333
+current error: [0.234281]
+
+/********* start new time layer 249001 *************/
+current time layer: [125.126, 125.126]
+current L^2 error = 0.233867  14.5694  3.40729
+current error: [0.233867]
+
+/********* start new time layer 250001 *************/
+current time layer: [125.628, 125.629]
+current L^2 error = 0.233457  14.5694  3.40133
+current error: [0.233457]
+
+/********* start new time layer 251001 *************/
+current time layer: [126.131, 126.131]
+current L^2 error = 0.233054  14.5694  3.39545
+current error: [0.233054]
+
+/********* start new time layer 252001 *************/
+current time layer: [126.633, 126.634]
+current L^2 error = 0.232655  14.5694  3.38964
+current error: [0.232655]
+
+/********* start new time layer 253001 *************/
+current time layer: [127.136, 127.136]
+current L^2 error = 0.232261  14.5694  3.3839
+current error: [0.232261]
+
+/********* start new time layer 254001 *************/
+current time layer: [127.638, 127.639]
+current L^2 error = 0.231873  14.5694  3.37824
+current error: [0.231873]
+
+/********* start new time layer 255001 *************/
+current time layer: [128.141, 128.141]
+current L^2 error = 0.231489  14.5694  3.37266
+current error: [0.231489]
+
+/********* start new time layer 256001 *************/
+current time layer: [128.643, 128.644]
+current L^2 error = 0.231111  14.5694  3.36714
+current error: [0.231111]
+
+/********* start new time layer 257001 *************/
+current time layer: [129.146, 129.146]
+current L^2 error = 0.230737  14.5694  3.3617
+current error: [0.230737]
+
+/********* start new time layer 258001 *************/
+current time layer: [129.648, 129.649]
+current L^2 error = 0.230368  14.5694  3.35632
+current error: [0.230368]
+
+/********* start new time layer 259001 *************/
+current time layer: [130.151, 130.151]
+current L^2 error = 0.230004  14.5694  3.35101
+current error: [0.230004]
+
+/********* start new time layer 260001 *************/
+current time layer: [130.653, 130.654]
+current L^2 error = 0.229644  14.5694  3.34578
+current error: [0.229644]
+
+/********* start new time layer 261001 *************/
+current time layer: [131.156, 131.156]
+current L^2 error = 0.22929  14.5694  3.3406
+current error: [0.22929]
+
+/********* start new time layer 262001 *************/
+current time layer: [131.658, 131.659]
+current L^2 error = 0.228939  14.5694  3.3355
+current error: [0.228939]
+
+/********* start new time layer 263001 *************/
+current time layer: [132.161, 132.161]
+current L^2 error = 0.228593  14.5694  3.33046
+current error: [0.228593]
+
+/********* start new time layer 264001 *************/
+current time layer: [132.663, 132.664]
+current L^2 error = 0.228252  14.5694  3.32549
+current error: [0.228252]
+
+/********* start new time layer 265001 *************/
+current time layer: [133.166, 133.166]
+current L^2 error = 0.227915  14.5694  3.32057
+current error: [0.227915]
+
+/********* start new time layer 266001 *************/
+current time layer: [133.668, 133.669]
+current L^2 error = 0.227582  14.5694  3.31573
+current error: [0.227582]
+
+/********* start new time layer 267001 *************/
+current time layer: [134.171, 134.171]
+current L^2 error = 0.227253  14.5694  3.31094
+current error: [0.227253]
+
+/********* start new time layer 268001 *************/
+current time layer: [134.673, 134.674]
+current L^2 error = 0.226929  14.5694  3.30621
+current error: [0.226929]
+
+/********* start new time layer 269001 *************/
+current time layer: [135.176, 135.176]
+current L^2 error = 0.226609  14.5694  3.30155
+current error: [0.226609]
+
+/********* start new time layer 270001 *************/
+current time layer: [135.678, 135.679]
+current L^2 error = 0.226293  14.5694  3.29694
+current error: [0.226293]
+
+/********* start new time layer 271001 *************/
+current time layer: [136.181, 136.181]
+current L^2 error = 0.225981  14.5694  3.2924
+current error: [0.225981]
+
+/********* start new time layer 272001 *************/
+current time layer: [136.683, 136.684]
+current L^2 error = 0.225673  14.5694  3.28791
+current error: [0.225673]
+
+/********* start new time layer 273001 *************/
+current time layer: [137.186, 137.186]
+current L^2 error = 0.225368  14.5694  3.28348
+current error: [0.225368]
+
+/********* start new time layer 274001 *************/
+current time layer: [137.688, 137.689]
+current L^2 error = 0.225068  14.5694  3.2791
+current error: [0.225068]
+
+/********* start new time layer 275001 *************/
+current time layer: [138.191, 138.191]
+current L^2 error = 0.224772  14.5694  3.27478
+current error: [0.224772]
+
+/********* start new time layer 276001 *************/
+current time layer: [138.693, 138.694]
+current L^2 error = 0.224479  14.5694  3.27052
+current error: [0.224479]
+
+/********* start new time layer 277001 *************/
+current time layer: [139.196, 139.196]
+current L^2 error = 0.22419  14.5694  3.26631
+current error: [0.22419]
+
+/********* start new time layer 278001 *************/
+current time layer: [139.698, 139.699]
+current L^2 error = 0.223905  14.5694  3.26216
+current error: [0.223905]
+
+/********* start new time layer 279001 *************/
+current time layer: [140.201, 140.202]
+current L^2 error = 0.223624  14.5694  3.25805
+current error: [0.223624]
+
+/********* start new time layer 280001 *************/
+current time layer: [140.704, 140.704]
+current L^2 error = 0.223346  14.5694  3.254
+current error: [0.223346]
+
+/********* start new time layer 281001 *************/
+current time layer: [141.206, 141.207]
+current L^2 error = 0.223071  14.5694  3.25001
+current error: [0.223071]
+
+/********* start new time layer 282001 *************/
+current time layer: [141.709, 141.709]
+current L^2 error = 0.2228  14.5694  3.24606
+current error: [0.2228]
+
+/********* start new time layer 283001 *************/
+current time layer: [142.211, 142.212]
+current L^2 error = 0.222533  14.5694  3.24216
+current error: [0.222533]
+
+/********* start new time layer 284001 *************/
+current time layer: [142.714, 142.714]
+current L^2 error = 0.222269  14.5694  3.23831
+current error: [0.222269]
+
+/********* start new time layer 285001 *************/
+current time layer: [143.216, 143.217]
+current L^2 error = 0.222008  14.5694  3.23452
+current error: [0.222008]
+
+/********* start new time layer 286001 *************/
+current time layer: [143.719, 143.719]
+current L^2 error = 0.22175  14.5694  3.23077
+current error: [0.22175]
+
+/********* start new time layer 287001 *************/
+current time layer: [144.221, 144.222]
+current L^2 error = 0.221496  14.5694  3.22706
+current error: [0.221496]
+
+/********* start new time layer 288001 *************/
+current time layer: [144.724, 144.724]
+current L^2 error = 0.221245  14.5694  3.22341
+current error: [0.221245]
+
+/********* start new time layer 289001 *************/
+current time layer: [145.226, 145.227]
+current L^2 error = 0.220998  14.5694  3.2198
+current error: [0.220998]
+
+/********* start new time layer 290001 *************/
+current time layer: [145.729, 145.729]
+current L^2 error = 0.220753  14.5694  3.21624
+current error: [0.220753]
+
+/********* start new time layer 291001 *************/
+current time layer: [146.231, 146.232]
+current L^2 error = 0.220512  14.5694  3.21272
+current error: [0.220512]
+
+/********* start new time layer 292001 *************/
+current time layer: [146.734, 146.734]
+current L^2 error = 0.220273  14.5694  3.20925
+current error: [0.220273]
+
+/********* start new time layer 293001 *************/
+current time layer: [147.236, 147.237]
+current L^2 error = 0.220038  14.5694  3.20582
+current error: [0.220038]
+
+/********* start new time layer 294001 *************/
+current time layer: [147.739, 147.739]
+current L^2 error = 0.219806  14.5694  3.20243
+current error: [0.219806]
+
+/********* start new time layer 295001 *************/
+current time layer: [148.241, 148.242]
+current L^2 error = 0.219576  14.5694  3.19909
+current error: [0.219576]
+
+/********* start new time layer 296001 *************/
+current time layer: [148.744, 148.744]
+current L^2 error = 0.21935  14.5694  3.19579
+current error: [0.21935]
+
+/********* start new time layer 297001 *************/
+current time layer: [149.246, 149.247]
+current L^2 error = 0.219126  14.5694  3.19253
+current error: [0.219126]
+
+/********* start new time layer 298001 *************/
+current time layer: [149.749, 149.749]
+current L^2 error = 0.218906  14.5694  3.18932
+current error: [0.218906]
+
+/********* start new time layer 299001 *************/
+current time layer: [150.251, 150.252]
+current L^2 error = 0.218688  14.5694  3.18614
+current error: [0.218688]
+
+/********* start new time layer 300001 *************/
+current time layer: [150.754, 150.754]
+current L^2 error = 0.218472  14.5694  3.18301
+current error: [0.218472]
+
+/********* start new time layer 301001 *************/
+current time layer: [151.256, 151.257]
+current L^2 error = 0.21826  14.5694  3.17991
+current error: [0.21826]
+
+/********* start new time layer 302001 *************/
+current time layer: [151.759, 151.759]
+current L^2 error = 0.21805  14.5694  3.17686
+current error: [0.21805]
+
+/********* start new time layer 303001 *************/
+current time layer: [152.261, 152.262]
+current L^2 error = 0.217843  14.5694  3.17384
+current error: [0.217843]
+
+/********* start new time layer 304001 *************/
+current time layer: [152.764, 152.764]
+current L^2 error = 0.217639  14.5694  3.17086
+current error: [0.217639]
+
+/********* start new time layer 305001 *************/
+current time layer: [153.266, 153.267]
+current L^2 error = 0.217437  14.5694  3.16792
+current error: [0.217437]
+
+/********* start new time layer 306001 *************/
+current time layer: [153.769, 153.769]
+current L^2 error = 0.217238  14.5694  3.16501
+current error: [0.217238]
+
+/********* start new time layer 307001 *************/
+current time layer: [154.271, 154.272]
+current L^2 error = 0.217041  14.5694  3.16215
+current error: [0.217041]
+
+/********* start new time layer 308001 *************/
+current time layer: [154.774, 154.774]
+current L^2 error = 0.216846  14.5694  3.15932
+current error: [0.216846]
+
+/********* start new time layer 309001 *************/
+current time layer: [155.276, 155.277]
+current L^2 error = 0.216655  14.5694  3.15652
+current error: [0.216655]
+
+/********* start new time layer 310001 *************/
+current time layer: [155.779, 155.779]
+current L^2 error = 0.216465  14.5694  3.15376
+current error: [0.216465]
+
+/********* start new time layer 311001 *************/
+current time layer: [156.281, 156.282]
+current L^2 error = 0.216278  14.5694  3.15104
+current error: [0.216278]
+
+/********* start new time layer 312001 *************/
+current time layer: [156.784, 156.784]
+current L^2 error = 0.216094  14.5694  3.14835
+current error: [0.216094]
+
+/********* start new time layer 313001 *************/
+current time layer: [157.286, 157.287]
+current L^2 error = 0.215911  14.5694  3.14569
+current error: [0.215911]
+
+/********* start new time layer 314001 *************/
+current time layer: [157.789, 157.789]
+current L^2 error = 0.215731  14.5694  3.14307
+current error: [0.215731]
+
+/********* start new time layer 315001 *************/
+current time layer: [158.291, 158.292]
+current L^2 error = 0.215554  14.5694  3.14048
+current error: [0.215554]
+
+/********* start new time layer 316001 *************/
+current time layer: [158.794, 158.794]
+current L^2 error = 0.215378  14.5694  3.13792
+current error: [0.215378]
+
+/********* start new time layer 317001 *************/
+current time layer: [159.296, 159.297]
+current L^2 error = 0.215205  14.5694  3.1354
+current error: [0.215205]
+
+/********* start new time layer 318001 *************/
+current time layer: [159.799, 159.799]
+current L^2 error = 0.215034  14.5694  3.13291
+current error: [0.215034]
+
+/********* start new time layer 319001 *************/
+current time layer: [160.302, 160.302]
+current L^2 error = 0.214865  14.5694  3.13045
+current error: [0.214865]
+
+/********* start new time layer 320001 *************/
+current time layer: [160.804, 160.805]
+current L^2 error = 0.214698  14.5694  3.12802
+current error: [0.214698]
+
+/********* start new time layer 321001 *************/
+current time layer: [161.307, 161.307]
+current L^2 error = 0.214533  14.5694  3.12562
+current error: [0.214533]
+
+/********* start new time layer 322001 *************/
+current time layer: [161.809, 161.81]
+current L^2 error = 0.214371  14.5694  3.12325
+current error: [0.214371]
+
+/********* start new time layer 323001 *************/
+current time layer: [162.312, 162.312]
+current L^2 error = 0.21421  14.5694  3.12091
+current error: [0.21421]
+
+/********* start new time layer 324001 *************/
+current time layer: [162.814, 162.815]
+current L^2 error = 0.214052  14.5694  3.1186
+current error: [0.214052]
+
+/********* start new time layer 325001 *************/
+current time layer: [163.317, 163.317]
+current L^2 error = 0.213895  14.5694  3.11632
+current error: [0.213895]
+
+/********* start new time layer 326001 *************/
+current time layer: [163.819, 163.82]
+current L^2 error = 0.213741  14.5694  3.11407
+current error: [0.213741]
+
+/********* start new time layer 327001 *************/
+current time layer: [164.322, 164.322]
+current L^2 error = 0.213588  14.5694  3.11185
+current error: [0.213588]
+
+/********* start new time layer 328001 *************/
+current time layer: [164.824, 164.825]
+current L^2 error = 0.213438  14.5694  3.10965
+current error: [0.213438]
+
+/********* start new time layer 329001 *************/
+current time layer: [165.327, 165.327]
+current L^2 error = 0.213289  14.5694  3.10749
+current error: [0.213289]
+
+/********* start new time layer 330001 *************/
+current time layer: [165.829, 165.83]
+current L^2 error = 0.213142  14.5694  3.10535
+current error: [0.213142]
+
+/********* start new time layer 331001 *************/
+current time layer: [166.332, 166.332]
+current L^2 error = 0.212997  14.5694  3.10324
+current error: [0.212997]
+
+/********* start new time layer 332001 *************/
+current time layer: [166.834, 166.835]
+current L^2 error = 0.212854  14.5694  3.10115
+current error: [0.212854]
+
+/********* start new time layer 333001 *************/
+current time layer: [167.337, 167.337]
+current L^2 error = 0.212713  14.5694  3.09909
+current error: [0.212713]
+
+/********* start new time layer 334001 *************/
+current time layer: [167.839, 167.84]
+current L^2 error = 0.212573  14.5694  3.09706
+current error: [0.212573]
+
+/********* start new time layer 335001 *************/
+current time layer: [168.342, 168.342]
+current L^2 error = 0.212435  14.5694  3.09505
+current error: [0.212435]
+
+/********* start new time layer 336001 *************/
+current time layer: [168.844, 168.845]
+current L^2 error = 0.212299  14.5694  3.09307
+current error: [0.212299]
+
+/********* start new time layer 337001 *************/
+current time layer: [169.347, 169.347]
+current L^2 error = 0.212165  14.5694  3.09111
+current error: [0.212165]
+
+/********* start new time layer 338001 *************/
+current time layer: [169.849, 169.85]
+current L^2 error = 0.212032  14.5694  3.08917
+current error: [0.212032]
+
+/********* start new time layer 339001 *************/
+current time layer: [170.352, 170.352]
+current L^2 error = 0.211901  14.5694  3.08727
+current error: [0.211901]
+
+/********* start new time layer 340001 *************/
+current time layer: [170.854, 170.855]
+current L^2 error = 0.211772  14.5694  3.08538
+current error: [0.211772]
+
+/********* start new time layer 341001 *************/
+current time layer: [171.357, 171.357]
+current L^2 error = 0.211644  14.5694  3.08352
+current error: [0.211644]
+
+/********* start new time layer 342001 *************/
+current time layer: [171.859, 171.86]
+current L^2 error = 0.211518  14.5694  3.08168
+current error: [0.211518]
+
+/********* start new time layer 343001 *************/
+current time layer: [172.362, 172.362]
+current L^2 error = 0.211393  14.5694  3.07987
+current error: [0.211393]
+
+/********* start new time layer 344001 *************/
+current time layer: [172.864, 172.865]
+current L^2 error = 0.21127  14.5694  3.07808
+current error: [0.21127]
+
+/********* start new time layer 345001 *************/
+current time layer: [173.367, 173.367]
+current L^2 error = 0.211149  14.5694  3.07631
+current error: [0.211149]
+
+/********* start new time layer 346001 *************/
+current time layer: [173.869, 173.87]
+current L^2 error = 0.211029  14.5694  3.07456
+current error: [0.211029]
+
+/********* start new time layer 347001 *************/
+current time layer: [174.372, 174.372]
+current L^2 error = 0.210911  14.5694  3.07284
+current error: [0.210911]
+
+/********* start new time layer 348001 *************/
+current time layer: [174.874, 174.875]
+current L^2 error = 0.210794  14.5694  3.07113
+current error: [0.210794]
+
+/********* start new time layer 349001 *************/
+current time layer: [175.377, 175.377]
+current L^2 error = 0.210678  14.5694  3.06945
+current error: [0.210678]
+
+/********* start new time layer 350001 *************/
+current time layer: [175.879, 175.88]
+current L^2 error = 0.210564  14.5694  3.06779
+current error: [0.210564]
+
+/********* start new time layer 351001 *************/
+current time layer: [176.382, 176.382]
+current L^2 error = 0.210452  14.5694  3.06615
+current error: [0.210452]
+
+/********* start new time layer 352001 *************/
+current time layer: [176.884, 176.885]
+current L^2 error = 0.210341  14.5694  3.06453
+current error: [0.210341]
+
+/********* start new time layer 353001 *************/
+current time layer: [177.387, 177.387]
+current L^2 error = 0.210231  14.5694  3.06293
+current error: [0.210231]
+
+/********* start new time layer 354001 *************/
+current time layer: [177.889, 177.89]
+current L^2 error = 0.210123  14.5694  3.06136
+current error: [0.210123]
+
+/********* start new time layer 355001 *************/
+current time layer: [178.392, 178.392]
+current L^2 error = 0.210016  14.5694  3.0598
+current error: [0.210016]
+
+/********* start new time layer 356001 *************/
+current time layer: [178.894, 178.895]
+current L^2 error = 0.20991  14.5694  3.05826
+current error: [0.20991]
+
+/********* start new time layer 357001 *************/
+current time layer: [179.397, 179.397]
+current L^2 error = 0.209806  14.5694  3.05674
+current error: [0.209806]
+
+/********* start new time layer 358001 *************/
+current time layer: [179.899, 179.9]
+current L^2 error = 0.209703  14.5694  3.05524
+current error: [0.209703]
+
+/********* start new time layer 359001 *************/
+current time layer: [180.402, 180.403]
+current L^2 error = 0.209601  14.5694  3.05376
+current error: [0.209601]
+
+/********* start new time layer 360001 *************/
+current time layer: [180.905, 180.905]
+current L^2 error = 0.209501  14.5694  3.05229
+current error: [0.209501]
+
+/********* start new time layer 361001 *************/
+current time layer: [181.407, 181.408]
+current L^2 error = 0.209401  14.5694  3.05085
+current error: [0.209401]
+
+/********* start new time layer 362001 *************/
+current time layer: [181.91, 181.91]
+current L^2 error = 0.209303  14.5694  3.04942
+current error: [0.209303]
+
+/********* start new time layer 363001 *************/
+current time layer: [182.412, 182.413]
+current L^2 error = 0.209207  14.5694  3.04801
+current error: [0.209207]
+
+/********* start new time layer 364001 *************/
+current time layer: [182.915, 182.915]
+current L^2 error = 0.209111  14.5694  3.04662
+current error: [0.209111]
+
+/********* start new time layer 365001 *************/
+current time layer: [183.417, 183.418]
+current L^2 error = 0.209017  14.5694  3.04525
+current error: [0.209017]
+
+/********* start new time layer 366001 *************/
+current time layer: [183.92, 183.92]
+current L^2 error = 0.208924  14.5694  3.04389
+current error: [0.208924]
+
+/********* start new time layer 367001 *************/
+current time layer: [184.422, 184.423]
+current L^2 error = 0.208832  14.5694  3.04255
+current error: [0.208832]
+
+/********* start new time layer 368001 *************/
+current time layer: [184.925, 184.925]
+current L^2 error = 0.208741  14.5694  3.04123
+current error: [0.208741]
+
+/********* start new time layer 369001 *************/
+current time layer: [185.427, 185.428]
+current L^2 error = 0.208652  14.5694  3.03992
+current error: [0.208652]
+
+/********* start new time layer 370001 *************/
+current time layer: [185.93, 185.93]
+current L^2 error = 0.208563  14.5694  3.03863
+current error: [0.208563]
+
+/********* start new time layer 371001 *************/
+current time layer: [186.432, 186.433]
+current L^2 error = 0.208476  14.5694  3.03736
+current error: [0.208476]
+
+/********* start new time layer 372001 *************/
+current time layer: [186.935, 186.935]
+current L^2 error = 0.208389  14.5694  3.0361
+current error: [0.208389]
+
+/********* start new time layer 373001 *************/
+current time layer: [187.437, 187.438]
+current L^2 error = 0.208304  14.5694  3.03486
+current error: [0.208304]
+
+/********* start new time layer 374001 *************/
+current time layer: [187.94, 187.94]
+current L^2 error = 0.20822  14.5694  3.03363
+current error: [0.20822]
+
+/********* start new time layer 375001 *************/
+current time layer: [188.442, 188.443]
+current L^2 error = 0.208137  14.5694  3.03242
+current error: [0.208137]
+
+/********* start new time layer 376001 *************/
+current time layer: [188.945, 188.945]
+current L^2 error = 0.208055  14.5694  3.03123
+current error: [0.208055]
+
+/********* start new time layer 377001 *************/
+current time layer: [189.447, 189.448]
+current L^2 error = 0.207974  14.5694  3.03005
+current error: [0.207974]
+
+/********* start new time layer 378001 *************/
+current time layer: [189.95, 189.95]
+current L^2 error = 0.207894  14.5694  3.02888
+current error: [0.207894]
+
+/********* start new time layer 379001 *************/
+current time layer: [190.452, 190.453]
+current L^2 error = 0.207815  14.5694  3.02773
+current error: [0.207815]
+
+/********* start new time layer 380001 *************/
+current time layer: [190.955, 190.955]
+current L^2 error = 0.207737  14.5694  3.02659
+current error: [0.207737]
+
+/********* start new time layer 381001 *************/
+current time layer: [191.457, 191.458]
+current L^2 error = 0.20766  14.5694  3.02547
+current error: [0.20766]
+
+/********* start new time layer 382001 *************/
+current time layer: [191.96, 191.96]
+current L^2 error = 0.207583  14.5694  3.02436
+current error: [0.207583]
+
+/********* start new time layer 383001 *************/
+current time layer: [192.462, 192.463]
+current L^2 error = 0.207508  14.5694  3.02327
+current error: [0.207508]
+
+/********* start new time layer 384001 *************/
+current time layer: [192.965, 192.965]
+current L^2 error = 0.207434  14.5694  3.02219
+current error: [0.207434]
+
+/********* start new time layer 385001 *************/
+current time layer: [193.467, 193.468]
+current L^2 error = 0.207361  14.5694  3.02112
+current error: [0.207361]
+
+/********* start new time layer 386001 *************/
+current time layer: [193.97, 193.97]
+current L^2 error = 0.207289  14.5694  3.02006
+current error: [0.207289]
+
+/********* start new time layer 387001 *************/
+current time layer: [194.472, 194.473]
+current L^2 error = 0.207217  14.5694  3.01902
+current error: [0.207217]
+
+/********* start new time layer 388001 *************/
+current time layer: [194.975, 194.975]
+current L^2 error = 0.207147  14.5694  3.018
+current error: [0.207147]
+
+/********* start new time layer 389001 *************/
+current time layer: [195.477, 195.478]
+current L^2 error = 0.207077  14.5694  3.01698
+current error: [0.207077]
+
+/********* start new time layer 390001 *************/
+current time layer: [195.98, 195.98]
+current L^2 error = 0.207008  14.5694  3.01598
+current error: [0.207008]
+
+/********* start new time layer 391001 *************/
+current time layer: [196.482, 196.483]
+current L^2 error = 0.20694  14.5694  3.01499
+current error: [0.20694]
+
+/********* start new time layer 392001 *************/
+current time layer: [196.985, 196.985]
+current L^2 error = 0.206873  14.5694  3.01401
+current error: [0.206873]
+
+/********* start new time layer 393001 *************/
+current time layer: [197.487, 197.488]
+current L^2 error = 0.206807  14.5694  3.01305
+current error: [0.206807]
+
+/********* start new time layer 394001 *************/
+current time layer: [197.99, 197.99]
+current L^2 error = 0.206741  14.5694  3.01209
+current error: [0.206741]
+
+/********* start new time layer 395001 *************/
+current time layer: [198.492, 198.493]
+current L^2 error = 0.206677  14.5694  3.01115
+current error: [0.206677]
+
+/********* start new time layer 396001 *************/
+current time layer: [198.995, 198.995]
+current L^2 error = 0.206613  14.5694  3.01022
+current error: [0.206613]
+
+/********* start new time layer 397001 *************/
+current time layer: [199.497, 199.498]
+current L^2 error = 0.20655  14.5694  3.0093
+current error: [0.20655]
+current time layer: [199.999, 200.]
+Total CPU time = 35085.3
+Last compute time = 0.0145159
